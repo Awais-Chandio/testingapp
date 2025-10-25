@@ -27,7 +27,7 @@ Shows a loading indicator while waiting.
 
 If the API response is successful, the app navigates to the Home Screen showing:
 
-“Welcome, [username]”
+Welcome Message
 
 If the API response fails, an error message is displayed.
 

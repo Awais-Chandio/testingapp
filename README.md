@@ -60,14 +60,6 @@ lib/
 └── service/
     └── service_locator.dart
 
-☁️ Uploading to GitHub
-git init
-git add .
-git commit -m "Initial commit - Simple Login App"
-git branch -M main
-git remote add origin https://github.com/yourusername/simple_login_app.git
-git push -u origin main
-
 🏁 Summary
 
 This project highlights:

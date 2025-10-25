@@ -42,31 +42,7 @@ flutter pub run build_runner build --delete-conflicting-outputs
 4️⃣ Run the app:
 flutter run
 
-🌍 API Details
 
-Base URL:
-
-http://softkhata.store
-
-
-Endpoint:
-
-/api/login
-
-
-Request (POST body):
-
-{
-  "email": "asad@gmail.com",
-  "password": "123456"
-}
-
-
-Response:
-Adjust the model class (LoginResponse) based on the actual JSON returned by the API.
-If you modify fields, re-run:
-
-flutter pub run build_runner build --delete-conflicting-outputs
 
 🧠 Project Structure
 lib/
